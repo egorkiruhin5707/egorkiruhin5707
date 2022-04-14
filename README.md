@@ -1,5 +1,5 @@
 ____
-# :video_game: Game[of]Robots
+:video_game: Game[of]Robots
 ____
 <!---
 egorkiruhin5707/egorkiruhin5707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
